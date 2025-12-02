@@ -221,7 +221,9 @@ sql_editor/
 
 ## Walkthrough Video
 
-[Link to walkthrough video - under 3 minutes]
+<figure align="center">
+  <img src="https://sqleditorex.netlify.app/demo.gif" alt="Demo video" />
+</figure>
 
 The walkthrough video demonstrates:
 - Application overview and layout
